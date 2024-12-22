@@ -1,8 +1,7 @@
-html {
-    background: #e5e7eb;
-    @apply w-full h-full;
+html, body {
+    @apply w-full h-full m-0 p-0 text-sm antialiased bg-[#F1F1F4];
 }
 
-body, #app {
+#app {
     @apply relative w-full h-full;
 }
