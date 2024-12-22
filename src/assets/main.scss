@@ -1,0 +1,8 @@
+html {
+    background: #e5e7eb;
+    @apply w-full h-full;
+}
+
+body, #app {
+    @apply relative w-full h-full;
+}
